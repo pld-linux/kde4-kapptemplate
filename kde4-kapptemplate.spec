@@ -9,12 +9,12 @@
 Summary:	KDE application framework generator
 Summary(pl.UTF-8):	Generator szkieletu dla aplikacji KDE
 Name:		kde4-kapptemplate
-Version:	4.13.0
+Version:	4.13.1
 Release:	1
 License:	GPL
 Group:		X11/Development/Tools
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	ed77f61f09f384ac24c37fe51ca3a5df
+# Source0-md5:	f5ec59085b48221d58e73252d4319b66
 URL:		http://www.kde.org/
 BuildRequires:	QtNetwork-devel >= %{qtver}
 BuildRequires:	QtScriptTools-devel >= %{qtver}
